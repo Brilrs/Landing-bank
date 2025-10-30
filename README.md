@@ -24,34 +24,37 @@ Cuenta con animaciones suaves gracias a **Framer Motion** y carruseles de tarjet
     ```bash
     git clone https://github.com/Brilrs/Landing-bank.git
 
-3. **Entrar al directorio del proyecto**
+3. Entrar al directorio del proyecto**
    
    ```bash
    cd landing-page-bank
 
-5. **Instalar dependencias:
+5. Instalar dependencias:
 
    ```bash
    yarn install
 
-8. **Ejecutar el proyecto en modo desarrollo:
+8. Ejecutar el proyecto en modo desarrollo:
 
    ```bash
    yarn dev
 
-11. Abrir el navegador en http://localhost:3000
+9. Abrir el navegador en http://localhost:3000
 
 
-**Build y Deploy
-
-Generar versión de producción:
-
-yarn build
+10.Build y Deploy
 
 
-Iniciar versión de producción:
+11. Generar versión de producción:
+   
+    ```bash
+    yarn build
 
-yarn start
+
+12. Iniciar versión de producción:
+
+    ```bash
+    yarn start
 
 
 **El proyecto puede desplegarse en plataformas como Netlify o Vercel.
