@@ -1,6 +1,8 @@
 # Landing Page Bank
 
-NextJS | Tailwind CSS | Framer Motion | TypeScript  
+NextJS | Tailwind CSS | Framer Motion | TypeScript
+
+🌐 **Proyecto en vivo:** [https://landingban.netlify.app/](https://landingban.netlify.app/)
 
 ![Vista de la Landing Page](https://github.com/ratasi/landing-page-bank/assets/16082370/27071d9d-78cd-43dc-99cc-75f07b910cac)
 
