@@ -20,18 +20,29 @@ Cuenta con animaciones suaves gracias a **Framer Motion** y carruseles de tarjet
 ## Instalación
 
 1. Clonar el repositorio:
-```bash
-git clone https://github.com/Brilrs/Landing-bank.git
+   
+    ```bash
+    git clone https://github.com/Brilrs/Landing-bank.git
 
-2. Entrar al directorio del proyecto: cd landing-page-bank
+3. **Entrar al directorio del proyecto**
+   
+   ```bash
+   cd landing-page-bank
 
-3. Instalar dependencias:  yarn install
+5. **Instalar dependencias:
 
-4. Ejecutar el proyecto en modo desarrollo:  yarn dev
+   ```bash
+   yarn install
 
-5. Abrir el navegador en http://localhost:3000
+8. **Ejecutar el proyecto en modo desarrollo:
 
-Build y Deploy
+   ```bash
+   yarn dev
+
+11. Abrir el navegador en http://localhost:3000
+
+
+**Build y Deploy
 
 Generar versión de producción:
 
@@ -43,7 +54,7 @@ Iniciar versión de producción:
 yarn start
 
 
-El proyecto puede desplegarse en plataformas como Netlify o Vercel.
+**El proyecto puede desplegarse en plataformas como Netlify o Vercel.
 
 
 
